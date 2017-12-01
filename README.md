@@ -1,3 +1,2 @@
 # MyNodeApp
-resository
-由小到大 由弱到强 
+一个完整的基于Node.js的web应用
